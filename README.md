@@ -62,5 +62,4 @@ Mas vamos para o que importa: O Teste.
 \*: _o importante são os outros pontos, mas esse poderá ser escolhido como ponto de desempate_
 
 ## projeto com parceria a escola Profeesora Luiza de Teodoro Vieira
-
-
+# professor Aloisio S Sousa - coordenador de curso
